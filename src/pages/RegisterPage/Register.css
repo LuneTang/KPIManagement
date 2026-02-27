@@ -1,0 +1,21 @@
+.register-select {
+    width: 100%;
+}
+
+.auth-container {
+    gap: 10px;
+}
+
+.login:hover {
+    text-decoration: underline;
+    color: gold;
+}
+
+.register-name .ant-input-prefix, 
+.register-mail .ant-input-prefix, 
+.register-select .ant-input-prefix, 
+.register-password .ant-input-prefix, 
+.register-confirm-password .ant-input-prefix {
+    margin-right: 15px;
+    color: #c92734;
+}
