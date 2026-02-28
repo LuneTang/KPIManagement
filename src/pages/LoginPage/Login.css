@@ -12,24 +12,11 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-}
-
-.login-input {
-    margin-bottom: 18px;
-}
-
-.login-input .ant-input-prefix {
-    margin-right: 15px;
-    color: #C9A227;
+    gap: 10px;
 }
 
 .forget-password {
     font-size: 15px;
-}
-
-.here:hover {
-    color: gold;
-    text-decoration: underline;
 }
 
 .app-button {

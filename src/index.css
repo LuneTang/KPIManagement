@@ -111,3 +111,8 @@ button:focus-visible {
   margin: 10px auto 0;
 }
 
+.login:hover,
+.here:hover,
+.back:hover {
+  color: rgb(0, 174, 255);
+}
